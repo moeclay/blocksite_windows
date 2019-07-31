@@ -8,7 +8,9 @@ Download di https://github.com/moeclay/blocksite_windows/archive/master.zip
 ubah file : block.bat
 
 Tambahkan nama situs yg ingin diubah
+
 echo 127.0.0.1 namasitus.com >> %hostspath%
+
 echo 127.0.0.1 namasitus.com >> %hostspath%
 
 simpan !
