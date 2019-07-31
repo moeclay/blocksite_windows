@@ -1,4 +1,4 @@
-# blocksite_windows
+# Blokir Situs PC Windows
 Cara mudah blokir situs dari PC 100% work it !!!
 
 # Cara menjalankan
